@@ -1,4 +1,4 @@
-# SBCON - The Statusbrew Conference
+# #SBCON - The Statusbrew Conference
 
 ## 1.0 Hackathon Requirements
 ### 1.1 Non-Technical Requirements
